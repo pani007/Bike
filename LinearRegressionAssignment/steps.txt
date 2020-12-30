@@ -1,0 +1,16 @@
+
+
+Read the Data,
+visualize the data
+Prepare the Data
+Encode the categorical values by numerical values by creating dummy variables
+split data to train and test dataset
+scale the data
+Build model 1. vif
+
+
+instant - Drop
+Date - DDrop
+casual and registered should be dropped
+
+Season ( Spring, summer, fall, winter) -> categorical to dummy variables
